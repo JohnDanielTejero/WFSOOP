@@ -1,0 +1,4 @@
+Bundle-Name: Login
+Bundle-SymbolicName: Login
+Bundle-Version: 1.0.0
+Export-Package: Login.constants
