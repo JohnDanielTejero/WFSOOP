@@ -1,0 +1,4 @@
+com/tripleA/Hosting/portlet/constants/RegistrationPortletKeys.java
+ com.tripleA.Hosting.portlet.constants.RegistrationPortletKeys
+com/tripleA/Hosting/portlet/portlet/RegistrationPortlet.java
+ com.tripleA.Hosting.portlet.portlet.RegistrationPortlet
